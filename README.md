@@ -18,7 +18,7 @@
   This product uses a MIT license
 
   ## Demo
-  <img src="assets/images/n/a">
+  https://github.com/chrischo94/fitnessTracker
 
   ## Questions
   For additional questions feel free to contact: chrischo2012@gmail.com
